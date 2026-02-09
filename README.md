@@ -76,5 +76,3 @@ The dataset contains **1000 retail transactions** with the following features:
 - Seasonal demand patterns are observed
 
 ---
-
-## 📁 Project Structure
